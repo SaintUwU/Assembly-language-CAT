@@ -1,0 +1,32 @@
+2024-11-20 20:50:40.124 [info] 
+
+
+
+
+2024-11-20 20:50:40.131 [info] Extension host agent started.
+2024-11-20 20:50:40.177 [info] Started initializing default profile extensions in extensions installation folder. file:///home/uwu/.vscode-server/extensions
+2024-11-20 20:50:40.196 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/uwu/.vscode-server/extensions
+2024-11-20 20:50:40.396 [info] [127.0.0.1][b5e8c95e][ManagementConnection] New connection established.
+2024-11-20 20:50:40.978 [info] [127.0.0.1][43254825][ExtensionHostConnection] New connection established.
+2024-11-20 20:50:41.126 [info] [127.0.0.1][43254825][ExtensionHostConnection] <584> Launched Extension Host Process.
+2024-11-20 20:50:42.449 [error] [network] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2024-11-20 21:13:00.840 [info] Getting Manifest... doinkythederp.nasm-language-support
+2024-11-20 21:13:01.124 [info] Installing extension: doinkythederp.nasm-language-support {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/uwu/.vscode-server/extensions/extensions.json","external":"file:///home/uwu/.vscode-server/extensions/extensions.json","path":"/home/uwu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-20 21:13:04.895 [info] Extension signature verification result for doinkythederp.nasm-language-support: Success. Executed: true. Duration: 1960ms.
+2024-11-20 21:13:04.924 [info] Extracted extension to file:///home/uwu/.vscode-server/extensions/doinkythederp.nasm-language-support-1.2.0: doinkythederp.nasm-language-support
+2024-11-20 21:13:04.928 [info] Renamed to /home/uwu/.vscode-server/extensions/doinkythederp.nasm-language-support-1.2.0
+2024-11-20 21:13:04.938 [info] Extension installed successfully: doinkythederp.nasm-language-support file:///home/uwu/.vscode-server/extensions/extensions.json
+2024-11-20 21:15:08.996 [info] Getting Manifest... prb28.amiga-assembly
+2024-11-20 21:15:09.165 [info] Installing extension: prb28.amiga-assembly {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/uwu/.vscode-server/extensions/extensions.json","external":"file:///home/uwu/.vscode-server/extensions/extensions.json","path":"/home/uwu/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.95.3","date":"2024-11-13T14:50:04.152Z"}}
+2024-11-20 21:16:08.369 [info] Extension signature verification result for prb28.amiga-assembly: Success. Executed: true. Duration: 958ms.
+2024-11-20 21:16:09.283 [error] [network] #13: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2024-11-20 21:16:11.352 [info] Extracted extension to file:///home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10: prb28.amiga-assembly
+2024-11-20 21:16:11.366 [info] Renamed to /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10
+2024-11-20 21:16:11.377 [info] Extension installed successfully: prb28.amiga-assembly file:///home/uwu/.vscode-server/extensions/extensions.json
+2024-11-20 21:19:42.089 [info] Uninstalling extension from the profile: prb28.amiga-assembly@1.8.10 file:///home/uwu/.vscode-server/extensions/extensions.json
+2024-11-20 21:19:42.109 [info] Marked extension as uninstalled prb28.amiga-assembly-1.8.10
+2024-11-20 21:19:42.631 [info] Successfully uninstalled extension from the profile prb28.amiga-assembly@1.8.10 file:///home/uwu/.vscode-server/extensions/extensions.json
+2024-11-20 21:19:44.931 [error] [network] #18: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2024-11-20 21:19:47.710 [error] [network] #19: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2024-11-20 21:53:30.634 [info] [127.0.0.1][b5e8c95e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-20 21:53:31.800 [info] [127.0.0.1][43254825][ExtensionHostConnection] <584> Extension Host Process exited with code: 0, signal: null.

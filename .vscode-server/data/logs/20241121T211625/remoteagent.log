@@ -1,0 +1,14 @@
+2024-11-21 21:16:25.363 [info] 
+
+
+
+
+2024-11-21 21:16:25.393 [info] Extension host agent started.
+2024-11-21 21:16:25.551 [info] Deleted uninstalled extension from disk prb28.amiga-assembly /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10
+2024-11-21 21:16:25.570 [info] [127.0.0.1][9fc1add6][ManagementConnection] New connection established.
+2024-11-21 21:16:26.079 [info] [127.0.0.1][1cca2cd5][ExtensionHostConnection] New connection established.
+2024-11-21 21:16:26.084 [info] [127.0.0.1][1cca2cd5][ExtensionHostConnection] <570> Launched Extension Host Process.
+2024-11-21 21:16:27.870 [error] [network] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2024-11-21 21:16:31.328 [error] [network] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST AggregateError [ETIMEDOUT]: 
+2024-11-21 21:16:45.004 [info] [127.0.0.1][9fc1add6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-21 21:16:45.232 [info] [127.0.0.1][1cca2cd5][ExtensionHostConnection] <570> Extension Host Process exited with code: 0, signal: null.

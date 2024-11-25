@@ -1,0 +1,7 @@
+[Info  - 9:13:05 PM] Revalidating all documents due to configuration change
+[Info  - 9:13:05 PM] validating source code
+[Info  - 9:13:05 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Error - 9:13:05 PM] Error: spawn nasm ENOENT
+[Info  - 9:13:05 PM] validating source code
+[Info  - 9:13:05 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Error - 9:13:05 PM] Error: spawn nasm ENOENT

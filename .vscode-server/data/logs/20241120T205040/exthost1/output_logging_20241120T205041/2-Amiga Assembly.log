@@ -1,0 +1,242 @@
+[info] Starting Amiga Assembly
+[info] ------> done
+[info] vasm 1.8k (c) in 2002-2021 Volker Barthelmann
+vasm M68k/CPU32/ColdFire cpu backend 2.3o (c) 2002-2021 Frank Wille
+vasm motorola syntax module 3.15a (c) 2002-2021 Frank Wille
+vasm hunk format output module 2.13 (c) 2002-2020 Frank Wille
+
+[info] 
+error 2 in line 1 of "/home/uwu/logic.asm": unknown mnemonic <.data>
+>section .data
+
+error 2 in line 2 of "/home/uwu/logic.asm": unknown mnemonic <prompt>
+>    prompt db "Enter a number: ", 0      ; Message to prompt user
+
+error 2 in line 3 of "/home/uwu/logic.asm": unknown mnemonic <pos_msg>
+>    pos_msg db "POSITIVE", 0            ; Positive message
+
+error 2 in line 4 of "/home/uwu/logic.asm": unknown mnemonic <neg_msg>
+>    neg_msg db "NEGATIVE", 0            ; Negative message
+
+error 2 in line 5 of "/home/uwu/logic.asm": unknown mnemonic <zero_msg>
+>    zero_msg db "ZERO", 0               ; Zero message
+***maximum number of errors reached!***
+
+[info] /home/uwu>Finished running tool: /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10/resources/bin/linux/vasmm68k_mot -m68000 -Fhunk -linedebug -o /home/uwu/build/logic.o /home/uwu/logic.asm
+[info] 
+[info] vasm 1.8k (c) in 2002-2021 Volker Barthelmann
+vasm M68k/CPU32/ColdFire cpu backend 2.3o (c) 2002-2021 Frank Wille
+vasm motorola syntax module 3.15a (c) 2002-2021 Frank Wille
+vasm hunk format output module 2.13 (c) 2002-2020 Frank Wille
+
+[info] 
+error 2 in line 1 of "/home/uwu/logic.asm": unknown mnemonic <.data>
+>section .data
+
+error 2 in line 2 of "/home/uwu/logic.asm": unknown mnemonic <prompt>
+>    prompt db "Enter a number: ", 0      ; Message to prompt user
+
+error 2 in line 3 of "/home/uwu/logic.asm": unknown mnemonic <pos_msg>
+>    pos_msg db "POSITIVE", 0            ; Positive message
+
+error 2 in line 4 of "/home/uwu/logic.asm": unknown mnemonic <neg_msg>
+>    neg_msg db "NEGATIVE", 0            ; Negative message
+
+error 2 in line 5 of "/home/uwu/logic.asm": unknown mnemonic <zero_msg>
+>    zero_msg db "ZERO", 0               ; Zero message
+***maximum number of errors reached!***
+
+[info] /home/uwu>Finished running tool: /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10/resources/bin/linux/vasmm68k_mot -m68000 -Fhunk -linedebug -o /home/uwu/build/logic.o /home/uwu/logic.asm
+[info] 
+[info] vasm 1.8k (c) in 2002-2021 Volker Barthelmann
+vasm M68k/CPU32/ColdFire cpu backend 2.3o (c) 2002-2021 Frank Wille
+vasm motorola syntax module 3.15a (c) 2002-2021 Frank Wille
+vasm hunk format output module 2.13 (c) 2002-2020 Frank Wille
+
+[info] 
+error 2 in line 1 of "/home/uwu/logic.asm": unknown mnemonic <.data>
+>section .data
+
+error 2 in line 2 of "/home/uwu/logic.asm": unknown mnemonic <prompt>
+>    prompt db "Enter a number: ", 0      ; Message to prompt user
+
+error 2 in line 3 of "/home/uwu/logic.asm": unknown mnemonic <pos_msg>
+>    pos_msg db "POSITIVE", 0            ; Positive message
+
+error 2 in line 4 of "/home/uwu/logic.asm": unknown mnemonic <neg_msg>
+>    neg_msg db "NEGATIVE", 0            ; Negative message
+
+error 2 in line 5 of "/home/uwu/logic.asm": unknown mnemonic <zero_msg>
+>    zero_msg db "ZERO", 0               ; Zero message
+***maximum number of errors reached!***
+
+[info] /home/uwu>Finished running tool: /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10/resources/bin/linux/vasmm68k_mot -m68000 -Fhunk -linedebug -o /home/uwu/build/logic.o /home/uwu/logic.asm
+[info] 
+[info] vasm 1.8k (c) in 2002-2021 Volker Barthelmann
+vasm M68k/CPU32/ColdFire cpu backend 2.3o (c) 2002-2021 Frank Wille
+vasm motorola syntax module 3.15a (c) 2002-2021 Frank Wille
+vasm hunk format output module 2.13 (c) 2002-2020 Frank Wille
+
+[info] 
+error 2 in line 1 of "/home/uwu/Question2.asm": unknown mnemonic <.data>
+>section .data
+
+error 2 in line 2 of "/home/uwu/Question2.asm": unknown mnemonic <prompt>
+>    prompt db "Enter 5 integers: ", 0
+
+error 2 in line 3 of "/home/uwu/Question2.asm": unknown mnemonic <output_prompt>
+>    output_prompt db "Reversed array: ", 0
+
+error 2 in line 4 of "/home/uwu/Question2.asm": unknown mnemonic <newline>
+>    newline db 10, 0                     ; Newline for formatting output
+
+error 75 in line 6 of "/home/uwu/Question2.asm": label <section> redefined
+>section .bss
+***maximum number of errors reached!***
+
+[info] /home/uwu>Finished running tool: /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10/resources/bin/linux/vasmm68k_mot -m68000 -Fhunk -linedebug -o /home/uwu/build/Question2.o /home/uwu/Question2.asm
+[info] 
+[info] vasm 1.8k (c) in 2002-2021 Volker Barthelmann
+vasm M68k/CPU32/ColdFire cpu backend 2.3o (c) 2002-2021 Frank Wille
+vasm motorola syntax module 3.15a (c) 2002-2021 Frank Wille
+vasm hunk format output module 2.13 (c) 2002-2020 Frank Wille
+
+[info] 
+error 2 in line 1 of "/home/uwu/Question2.asm": unknown mnemonic <.data>
+>section .data
+
+error 2 in line 2 of "/home/uwu/Question2.asm": unknown mnemonic <prompt>
+>    prompt db "Enter 5 integers: ", 0
+
+error 2 in line 3 of "/home/uwu/Question2.asm": unknown mnemonic <output_prompt>
+>    output_prompt db "Reversed array: ", 0
+
+error 2 in line 4 of "/home/uwu/Question2.asm": unknown mnemonic <newline>
+>    newline db 10, 0                     ; Newline for formatting output
+
+error 75 in line 6 of "/home/uwu/Question2.asm": label <section> redefined
+>section .bss
+***maximum number of errors reached!***
+
+[info] /home/uwu>Finished running tool: /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10/resources/bin/linux/vasmm68k_mot -m68000 -Fhunk -linedebug -o /home/uwu/build/Question2.o /home/uwu/Question2.asm
+[info] 
+[info] vasm 1.8k (c) in 2002-2021 Volker Barthelmann
+vasm M68k/CPU32/ColdFire cpu backend 2.3o (c) 2002-2021 Frank Wille
+vasm motorola syntax module 3.15a (c) 2002-2021 Frank Wille
+vasm hunk format output module 2.13 (c) 2002-2020 Frank Wille
+
+[info] 
+error 2 in line 1 of "/home/uwu/Question2.asm": unknown mnemonic <.data>
+>section .data
+
+error 2 in line 2 of "/home/uwu/Question2.asm": unknown mnemonic <prompt>
+>    prompt db "Enter 5 integers: ", 0
+
+error 2 in line 3 of "/home/uwu/Question2.asm": unknown mnemonic <output_prompt>
+>    output_prompt db "Reversed array: ", 0
+
+error 2 in line 4 of "/home/uwu/Question2.asm": unknown mnemonic <newline>
+>    newline db 10, 0                     ; Newline for formatting output
+
+error 75 in line 6 of "/home/uwu/Question2.asm": label <section> redefined
+>section .bss
+***maximum number of errors reached!***
+
+[info] /home/uwu>Finished running tool: /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10/resources/bin/linux/vasmm68k_mot -m68000 -Fhunk -linedebug -o /home/uwu/build/Question2.o /home/uwu/Question2.asm
+[info] 
+[info] vasm 1.8k (c) in 2002-2021 Volker Barthelmann
+vasm M68k/CPU32/ColdFire cpu backend 2.3o (c) 2002-2021 Frank Wille
+vasm motorola syntax module 3.15a (c) 2002-2021 Frank Wille
+vasm hunk format output module 2.13 (c) 2002-2020 Frank Wille
+
+[info] 
+error 2 in line 1 of "/home/uwu/Question2.asm": unknown mnemonic <.data>
+>section .data
+
+error 2 in line 2 of "/home/uwu/Question2.asm": unknown mnemonic <prompt>
+>    prompt db "Enter 5 integers: ", 0
+
+error 2 in line 3 of "/home/uwu/Question2.asm": unknown mnemonic <output_prompt>
+>    output_prompt db "Reversed array: ", 0
+
+error 2 in line 4 of "/home/uwu/Question2.asm": unknown mnemonic <newline>
+>    newline db 10, 0                     ; Newline for formatting output
+
+error 2 in line 5 of "/home/uwu/Question2.asm": unknown mnemonic <int_format>
+>    int_format db "%d", 0                 ; Format for printing integers
+***maximum number of errors reached!***
+
+[info] /home/uwu>Finished running tool: /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10/resources/bin/linux/vasmm68k_mot -m68000 -Fhunk -linedebug -o /home/uwu/build/Question2.o /home/uwu/Question2.asm
+[info] 
+[info] vasm 1.8k (c) in 2002-2021 Volker Barthelmann
+vasm M68k/CPU32/ColdFire cpu backend 2.3o (c) 2002-2021 Frank Wille
+vasm motorola syntax module 3.15a (c) 2002-2021 Frank Wille
+vasm hunk format output module 2.13 (c) 2002-2020 Frank Wille
+
+[info] 
+error 2 in line 1 of "/home/uwu/Question2.asm": unknown mnemonic <.data>
+>section .data
+
+error 2 in line 2 of "/home/uwu/Question2.asm": unknown mnemonic <prompt>
+>    prompt db "Enter 5 integers: ", 0
+
+error 2 in line 3 of "/home/uwu/Question2.asm": unknown mnemonic <newline>
+>    newline db 10, 0                     ; Newline for formatting output
+
+error 75 in line 5 of "/home/uwu/Question2.asm": label <section> redefined
+>section .bss
+
+error 2 in line 5 of "/home/uwu/Question2.asm": unknown mnemonic <.bss>
+>section .bss
+***maximum number of errors reached!***
+
+[info] /home/uwu>Finished running tool: /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10/resources/bin/linux/vasmm68k_mot -m68000 -Fhunk -linedebug -o /home/uwu/build/Question2.o /home/uwu/Question2.asm
+[info] 
+[info] vasm 1.8k (c) in 2002-2021 Volker Barthelmann
+vasm M68k/CPU32/ColdFire cpu backend 2.3o (c) 2002-2021 Frank Wille
+vasm motorola syntax module 3.15a (c) 2002-2021 Frank Wille
+vasm hunk format output module 2.13 (c) 2002-2020 Frank Wille
+
+[info] 
+error 2 in line 1 of "/home/uwu/Question2.asm": unknown mnemonic <.data>
+>section .data
+
+error 2 in line 2 of "/home/uwu/Question2.asm": unknown mnemonic <prompt>
+>    prompt db "Enter 5 integers: ", 0
+
+error 2 in line 3 of "/home/uwu/Question2.asm": unknown mnemonic <newline>
+>    newline db 10, 0                     ; Newline for formatting output
+
+error 75 in line 5 of "/home/uwu/Question2.asm": label <section> redefined
+>section .bss
+
+error 2 in line 5 of "/home/uwu/Question2.asm": unknown mnemonic <.bss>
+>section .bss
+***maximum number of errors reached!***
+
+[info] /home/uwu>Finished running tool: /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10/resources/bin/linux/vasmm68k_mot -m68000 -Fhunk -linedebug -o /home/uwu/build/Question2.o /home/uwu/Question2.asm
+[info] 
+[info] vasm 1.8k (c) in 2002-2021 Volker Barthelmann
+vasm M68k/CPU32/ColdFire cpu backend 2.3o (c) 2002-2021 Frank Wille
+vasm motorola syntax module 3.15a (c) 2002-2021 Frank Wille
+vasm hunk format output module 2.13 (c) 2002-2020 Frank Wille
+
+[info] 
+error 2 in line 1 of "/home/uwu/Question2.asm": unknown mnemonic <.data>
+>section .data
+
+error 2 in line 2 of "/home/uwu/Question2.asm": unknown mnemonic <prompt>
+>    prompt db "Enter two integers: ", 0xA
+
+error 2 in line 3 of "/home/uwu/Question2.asm": unknown mnemonic <newline>
+>    newline db 0xA
+
+error 75 in line 5 of "/home/uwu/Question2.asm": label <section> redefined
+>section .bss
+
+error 2 in line 5 of "/home/uwu/Question2.asm": unknown mnemonic <.bss>
+>section .bss
+***maximum number of errors reached!***
+
+[info] /home/uwu>Finished running tool: /home/uwu/.vscode-server/extensions/prb28.amiga-assembly-1.8.10/resources/bin/linux/vasmm68k_mot -m68000 -Fhunk -linedebug -o /home/uwu/build/Question2.o /home/uwu/Question2.asm
+[info] 
