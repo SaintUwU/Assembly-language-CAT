@@ -1,0 +1,154 @@
+2024-11-27 10:43:20.814 [info] Extension host with pid 771 started
+2024-11-27 10:43:20.837 [info] Lock '/home/uwu/.vscode-server/data/User/workspaceStorage/96e01e3a329586d7c93d4dd62db94dde/vscode.lock': Lock acquired.
+2024-11-27 10:43:20.884 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-27 10:43:20.929 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-27 10:43:20.930 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-27 10:43:21.188 [info] Eager extensions activated
+2024-11-27 10:43:21.189 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-27 10:43:21.189 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-27 10:43:21.388 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-27 10:44:12.355 [info] ExtensionService#_doActivateExtension doinkythederp.nasm-language-support, startup: false, activationEvent: 'onLanguage:nasm'
+2024-11-27 10:44:34.695 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-11-27 10:44:40.021 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-27 10:44:40.022 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-11-27 10:44:40.023 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-11-27 10:46:40.740 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-11-27 10:46:43.145 [warning] vscode.json-language-features - Code actions of kind 'quickfix' requested but returned code action is of kind 'source.sort.json'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2024-11-27 12:59:46.933 [info] Extension host terminating: received terminate message from renderer
+2024-11-27 12:59:47.537 [info] Lock '/home/uwu/.vscode-server/data/User/workspaceStorage/96e01e3a329586d7c93d4dd62db94dde/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-11-27 12:59:58.747 [error] Canceled: Canceled
+	at new tT (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:151066)
+	at py.U (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:155676)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:153170)
+	at Y0.g (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at mh.O [as value] (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/git/dist/main.js:2:961845)
+	at P.B (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.C (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at P.fire (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/git/dist/main.js:2:983333)
+	at /home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at _z.eb (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at _z.$ (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at _z.terminate (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at xC.terminate (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at mh.value (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:174:13245)
+	at P.B (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at Vn.fire (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+	at Fm.A (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+	at mh.value (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+	at P.B (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at j5.acceptChunk (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+	at mh.value (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:7226)
+	at P.B (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at V2.z (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:21944)
+	at V2.acceptFrame (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:21750)
+	at W2.n (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:20278)
+	at file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:17510
+	at Socket.t (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-11-27 12:59:59.405 [error] Canceled: Canceled
+	at new tT (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:151066)
+	at py.U (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:155676)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:153170)
+	at Y0.g (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/github/dist/extension.js:2:328633)
+	at /home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/github/dist/extension.js:2:329592
+	at mh.value (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/git/dist/main.js:2:1073936)
+	at P.B (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.C (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at P.fire (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/git/dist/main.js:2:983333)
+	at /home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at _z.eb (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at _z.$ (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at _z.terminate (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at xC.terminate (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:174:15084)
+	at mh.value (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:174:13245)
+	at P.B (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at Vn.fire (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+	at Fm.A (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+	at mh.value (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+	at P.B (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at j5.acceptChunk (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+	at mh.value (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:7226)
+	at P.B (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at V2.z (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:21944)
+	at V2.acceptFrame (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:21750)
+	at W2.n (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:20278)
+	at file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:17510
+	at Socket.t (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-11-27 13:00:01.486 [error] Error: Channel has been closed
+	at s (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:120:2431)
+	at Object.appendLine (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:120:2570)
+	at D.logOutputMessage (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:285192)
+	at D.error (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:285083)
+	at /home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:293414
+	at runNextTicks (node:internal/process/task_queues:60:5)
+	at listOnTimeout (node:internal/timers:545:9)
+	at process.processTimers (node:internal/timers:519:7)
+	at async Object.dispose (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:564150)
+	at async Object.dispose (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:555714)
+	at async t.deactivate (/home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/extensions/json-language-features/client/dist/node/jsonClientMain.js:1:576456)
+	at async Promise.all (index 7)
+	at async _z.$ (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:9888)
+2024-11-27 13:00:01.551 [error] Error: Stopping the server timed out
+	at /home/uwu/.vscode-server/extensions/doinkythederp.nasm-language-support-1.2.0/dist/extension.js:39:8578
+	at runNextTicks (node:internal/process/task_queues:60:5)
+	at process.processTimers (node:internal/timers:516:9)
+	at async Object.Mw (/home/uwu/.vscode-server/extensions/doinkythederp.nasm-language-support-1.2.0/dist/extension.js:39:34898)
+	at async Promise.all (index 10)
+	at async _z.$ (file:///home/uwu/.vscode-server/bin/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/out/vs/workbench/api/node/extensionHostProcess.js:118:9888)
+2024-11-27 13:00:01.551 [info] Extension host with pid 771 exiting with code 0

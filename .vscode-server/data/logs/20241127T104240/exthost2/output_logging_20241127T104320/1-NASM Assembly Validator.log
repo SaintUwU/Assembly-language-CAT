@@ -1,0 +1,367 @@
+[Info  - 10:44:12 AM] Revalidating all documents due to configuration change
+[Info  - 10:44:12 AM] validating source code
+[Info  - 10:44:12 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 10:44:12 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 10:44:12 AM] validating source code
+[Info  - 10:44:12 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 10:44:12 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 10:47:27 AM] validating source code
+[Info  - 10:47:27 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 10:47:27 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:11:09 AM] validating source code
+[Info  - 11:11:09 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:11:09 AM] Parsing diagnostics from in.asm
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 42 with message "impossible combination of address sizes"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 42 with message "invalid 16-bit effective address"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 59 with message "impossible combination of address sizes"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 59 with message "invalid 16-bit effective address"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 60 with message "impossible combination of address sizes"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 60 with message "invalid 16-bit effective address"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 63 with message "impossible combination of address sizes"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 63 with message "invalid 16-bit effective address"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 64 with message "impossible combination of address sizes"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 64 with message "invalid 16-bit effective address"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 88 with message "impossible combination of address sizes"
+[Info  - 11:11:09 AM] Parsed error diagnostic on line 88 with message "invalid 16-bit effective address"
+finished calculating 12 diagnostics, sending
+[Info  - 11:12:05 AM] validating source code
+[Info  - 11:12:05 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:12:05 AM] Parsing diagnostics from in.asm
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 42 with message "impossible combination of address sizes"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 42 with message "invalid 16-bit effective address"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 59 with message "impossible combination of address sizes"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 59 with message "invalid 16-bit effective address"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 60 with message "impossible combination of address sizes"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 60 with message "invalid 16-bit effective address"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 63 with message "impossible combination of address sizes"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 63 with message "invalid 16-bit effective address"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 64 with message "impossible combination of address sizes"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 64 with message "invalid 16-bit effective address"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 88 with message "impossible combination of address sizes"
+[Info  - 11:12:05 AM] Parsed error diagnostic on line 88 with message "invalid 16-bit effective address"
+finished calculating 12 diagnostics, sending
+[Info  - 11:13:59 AM] validating source code
+[Info  - 11:13:59 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:13:59 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:19:49 AM] validating source code
+[Info  - 11:19:49 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:19:49 AM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 11:29:18 AM] validating source code
+[Info  - 11:29:18 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:29:18 AM] Parsing diagnostics from in.asm
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 9 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 12 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 15 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 16 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 21 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 22 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 23 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 25 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 27 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 30 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 31 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 34 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 35 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 40 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 43 with message "instruction not supported in 16-bit mode"
+[Info  - 11:29:18 AM] Parsed error diagnostic on line 44 with message "instruction not supported in 16-bit mode"
+finished calculating 16 diagnostics, sending
+[Info  - 11:30:12 AM] validating source code
+[Info  - 11:30:12 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:30:12 AM] Parsing diagnostics from in.asm
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 9 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 12 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 15 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 16 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 21 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 22 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 23 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 25 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 27 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 30 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 31 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 34 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 35 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 40 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 43 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:12 AM] Parsed error diagnostic on line 44 with message "instruction not supported in 16-bit mode"
+finished calculating 16 diagnostics, sending
+[Info  - 11:30:53 AM] validating source code
+[Info  - 11:30:53 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:30:53 AM] Parsing diagnostics from in.asm
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 10 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 16 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 19 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 20 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 26 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 27 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 30 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 33 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 37 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 38 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 42 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 43 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 46 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 47 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 52 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 53 with message "instruction not supported in 16-bit mode"
+[Info  - 11:30:53 AM] Parsed error diagnostic on line 54 with message "instruction not supported in 16-bit mode"
+finished calculating 17 diagnostics, sending
+[Info  - 11:32:34 AM] validating source code
+[Info  - 11:32:34 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:32:34 AM] Parsing diagnostics from in.asm
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 42 with message "impossible combination of address sizes"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 42 with message "invalid 16-bit effective address"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 59 with message "impossible combination of address sizes"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 59 with message "invalid 16-bit effective address"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 60 with message "impossible combination of address sizes"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 60 with message "invalid 16-bit effective address"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 63 with message "impossible combination of address sizes"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 63 with message "invalid 16-bit effective address"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 64 with message "impossible combination of address sizes"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 64 with message "invalid 16-bit effective address"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 88 with message "impossible combination of address sizes"
+[Info  - 11:32:34 AM] Parsed error diagnostic on line 88 with message "invalid 16-bit effective address"
+finished calculating 12 diagnostics, sending
+[Info  - 11:40:40 AM] validating source code
+[Info  - 11:40:40 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:40:40 AM] Parsing diagnostics from in.asm
+[Info  - 11:40:40 AM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 11:40:40 AM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+finished calculating 2 diagnostics, sending
+[Info  - 11:46:46 AM] validating source code
+[Info  - 11:46:46 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:46:46 AM] Parsing diagnostics from in.asm
+[Info  - 11:46:46 AM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 11:46:46 AM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+[Info  - 11:46:46 AM] Parsed error diagnostic on line 70 with message "impossible combination of address sizes"
+[Info  - 11:46:46 AM] Parsed error diagnostic on line 70 with message "invalid 16-bit effective address"
+[Info  - 11:46:46 AM] Parsed error diagnostic on line 71 with message "impossible combination of address sizes"
+[Info  - 11:46:46 AM] Parsed error diagnostic on line 71 with message "invalid 16-bit effective address"
+[Info  - 11:46:46 AM] Parsed error diagnostic on line 72 with message "impossible combination of address sizes"
+[Info  - 11:46:46 AM] Parsed error diagnostic on line 72 with message "invalid 16-bit effective address"
+[Info  - 11:46:46 AM] Parsed error diagnostic on line 73 with message "impossible combination of address sizes"
+[Info  - 11:46:46 AM] Parsed error diagnostic on line 73 with message "invalid 16-bit effective address"
+finished calculating 10 diagnostics, sending
+[Info  - 11:48:17 AM] validating source code
+[Info  - 11:48:17 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:48:17 AM] Parsing diagnostics from in.asm
+[Info  - 11:48:17 AM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 11:48:17 AM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+[Info  - 11:48:17 AM] Parsed error diagnostic on line 71 with message "impossible combination of address sizes"
+[Info  - 11:48:17 AM] Parsed error diagnostic on line 71 with message "invalid 16-bit effective address"
+[Info  - 11:48:17 AM] Parsed error diagnostic on line 72 with message "impossible combination of address sizes"
+[Info  - 11:48:17 AM] Parsed error diagnostic on line 72 with message "invalid 16-bit effective address"
+[Info  - 11:48:17 AM] Parsed error diagnostic on line 73 with message "impossible combination of address sizes"
+[Info  - 11:48:17 AM] Parsed error diagnostic on line 73 with message "invalid 16-bit effective address"
+[Info  - 11:48:17 AM] Parsed error diagnostic on line 74 with message "impossible combination of address sizes"
+[Info  - 11:48:17 AM] Parsed error diagnostic on line 74 with message "invalid 16-bit effective address"
+finished calculating 10 diagnostics, sending
+[Info  - 11:48:56 AM] validating source code
+[Info  - 11:48:56 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:48:56 AM] Parsing diagnostics from in.asm
+[Info  - 11:48:56 AM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 11:48:56 AM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+finished calculating 2 diagnostics, sending
+[Info  - 11:54:14 AM] validating source code
+[Info  - 11:54:14 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:54:14 AM] Parsing diagnostics from in.asm
+[Info  - 11:54:14 AM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 11:54:14 AM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+finished calculating 2 diagnostics, sending
+[Info  - 11:54:59 AM] validating source code
+[Info  - 11:54:59 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:54:59 AM] Parsing diagnostics from in.asm
+[Info  - 11:54:59 AM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 11:54:59 AM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+finished calculating 2 diagnostics, sending
+[Info  - 11:57:14 AM] validating source code
+[Info  - 11:57:14 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:57:14 AM] Parsing diagnostics from in.asm
+[Info  - 11:57:14 AM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 11:57:14 AM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+[Info  - 11:57:14 AM] Parsed error diagnostic on line 71 with message "impossible combination of address sizes"
+[Info  - 11:57:14 AM] Parsed error diagnostic on line 71 with message "invalid 16-bit effective address"
+[Info  - 11:57:14 AM] Parsed error diagnostic on line 72 with message "impossible combination of address sizes"
+[Info  - 11:57:14 AM] Parsed error diagnostic on line 72 with message "invalid 16-bit effective address"
+[Info  - 11:57:14 AM] Parsed error diagnostic on line 73 with message "impossible combination of address sizes"
+[Info  - 11:57:14 AM] Parsed error diagnostic on line 73 with message "invalid 16-bit effective address"
+[Info  - 11:57:14 AM] Parsed error diagnostic on line 74 with message "impossible combination of address sizes"
+[Info  - 11:57:14 AM] Parsed error diagnostic on line 74 with message "invalid 16-bit effective address"
+finished calculating 10 diagnostics, sending
+[Info  - 11:58:22 AM] validating source code
+[Info  - 11:58:22 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:58:22 AM] Parsing diagnostics from in.asm
+[Info  - 11:58:22 AM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 11:58:22 AM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+finished calculating 2 diagnostics, sending
+[Info  - 11:58:42 AM] validating source code
+[Info  - 11:58:42 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:58:42 AM] Parsing diagnostics from in.asm
+[Info  - 11:58:42 AM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 11:58:42 AM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+finished calculating 2 diagnostics, sending
+[Info  - 11:59:10 AM] validating source code
+[Info  - 11:59:10 AM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 11:59:10 AM] Parsing diagnostics from in.asm
+[Info  - 11:59:10 AM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 11:59:10 AM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+finished calculating 2 diagnostics, sending
+[Info  - 12:00:26 PM] validating source code
+[Info  - 12:00:27 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:00:27 PM] Parsing diagnostics from in.asm
+[Info  - 12:00:27 PM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 12:00:27 PM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+finished calculating 2 diagnostics, sending
+[Info  - 12:00:43 PM] validating source code
+[Info  - 12:00:43 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:00:43 PM] Parsing diagnostics from in.asm
+[Info  - 12:00:43 PM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 12:00:43 PM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+finished calculating 2 diagnostics, sending
+[Info  - 12:01:02 PM] validating source code
+[Info  - 12:01:02 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:01:02 PM] Parsing diagnostics from in.asm
+[Info  - 12:01:02 PM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 12:01:02 PM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+finished calculating 2 diagnostics, sending
+[Info  - 12:01:44 PM] validating source code
+[Info  - 12:01:44 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:01:44 PM] Parsing diagnostics from in.asm
+[Info  - 12:01:44 PM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 12:01:44 PM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+[Info  - 12:01:44 PM] Parsed error diagnostic on line 74 with message "impossible combination of address sizes"
+[Info  - 12:01:44 PM] Parsed error diagnostic on line 74 with message "invalid 16-bit effective address"
+[Info  - 12:01:44 PM] Parsed error diagnostic on line 75 with message "impossible combination of address sizes"
+[Info  - 12:01:44 PM] Parsed error diagnostic on line 75 with message "invalid 16-bit effective address"
+[Info  - 12:01:44 PM] Parsed error diagnostic on line 76 with message "impossible combination of address sizes"
+[Info  - 12:01:44 PM] Parsed error diagnostic on line 76 with message "invalid 16-bit effective address"
+[Info  - 12:01:44 PM] Parsed error diagnostic on line 77 with message "impossible combination of address sizes"
+[Info  - 12:01:44 PM] Parsed error diagnostic on line 77 with message "invalid 16-bit effective address"
+finished calculating 10 diagnostics, sending
+[Info  - 12:02:41 PM] validating source code
+[Info  - 12:02:41 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:02:41 PM] Parsing diagnostics from in.asm
+[Info  - 12:02:41 PM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 12:02:41 PM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+[Info  - 12:02:41 PM] Parsed error diagnostic on line 74 with message "impossible combination of address sizes"
+[Info  - 12:02:41 PM] Parsed error diagnostic on line 74 with message "invalid 16-bit effective address"
+[Info  - 12:02:41 PM] Parsed error diagnostic on line 75 with message "impossible combination of address sizes"
+[Info  - 12:02:41 PM] Parsed error diagnostic on line 75 with message "invalid 16-bit effective address"
+[Info  - 12:02:41 PM] Parsed error diagnostic on line 76 with message "impossible combination of address sizes"
+[Info  - 12:02:41 PM] Parsed error diagnostic on line 76 with message "invalid 16-bit effective address"
+[Info  - 12:02:41 PM] Parsed error diagnostic on line 77 with message "impossible combination of address sizes"
+[Info  - 12:02:41 PM] Parsed error diagnostic on line 77 with message "invalid 16-bit effective address"
+finished calculating 10 diagnostics, sending
+[Info  - 12:03:10 PM] validating source code
+[Info  - 12:03:10 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:03:10 PM] Parsing diagnostics from in.asm
+[Info  - 12:03:10 PM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 12:03:10 PM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+[Info  - 12:03:10 PM] Parsed error diagnostic on line 68 with message "impossible combination of address sizes"
+[Info  - 12:03:10 PM] Parsed error diagnostic on line 68 with message "invalid 16-bit effective address"
+[Info  - 12:03:10 PM] Parsed error diagnostic on line 69 with message "impossible combination of address sizes"
+[Info  - 12:03:10 PM] Parsed error diagnostic on line 69 with message "invalid 16-bit effective address"
+[Info  - 12:03:10 PM] Parsed error diagnostic on line 70 with message "impossible combination of address sizes"
+[Info  - 12:03:10 PM] Parsed error diagnostic on line 70 with message "invalid 16-bit effective address"
+[Info  - 12:03:10 PM] Parsed error diagnostic on line 71 with message "impossible combination of address sizes"
+[Info  - 12:03:10 PM] Parsed error diagnostic on line 71 with message "invalid 16-bit effective address"
+finished calculating 10 diagnostics, sending
+[Info  - 12:03:15 PM] validating source code
+[Info  - 12:03:15 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:03:15 PM] Parsing diagnostics from in.asm
+[Info  - 12:03:15 PM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 12:03:15 PM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+[Info  - 12:03:15 PM] Parsed error diagnostic on line 68 with message "impossible combination of address sizes"
+[Info  - 12:03:15 PM] Parsed error diagnostic on line 68 with message "invalid 16-bit effective address"
+[Info  - 12:03:15 PM] Parsed error diagnostic on line 69 with message "impossible combination of address sizes"
+[Info  - 12:03:15 PM] Parsed error diagnostic on line 69 with message "invalid 16-bit effective address"
+[Info  - 12:03:15 PM] Parsed error diagnostic on line 70 with message "impossible combination of address sizes"
+[Info  - 12:03:15 PM] Parsed error diagnostic on line 70 with message "invalid 16-bit effective address"
+[Info  - 12:03:15 PM] Parsed error diagnostic on line 71 with message "impossible combination of address sizes"
+[Info  - 12:03:15 PM] Parsed error diagnostic on line 71 with message "invalid 16-bit effective address"
+finished calculating 10 diagnostics, sending
+[Info  - 12:03:41 PM] validating source code
+[Info  - 12:03:41 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:03:41 PM] Parsing diagnostics from in.asm
+[Info  - 12:03:41 PM] Parsed error diagnostic on line 57 with message "impossible combination of address sizes"
+[Info  - 12:03:41 PM] Parsed error diagnostic on line 57 with message "invalid 16-bit effective address"
+[Info  - 12:03:41 PM] Parsed error diagnostic on line 74 with message "impossible combination of address sizes"
+[Info  - 12:03:41 PM] Parsed error diagnostic on line 74 with message "invalid 16-bit effective address"
+[Info  - 12:03:41 PM] Parsed error diagnostic on line 75 with message "impossible combination of address sizes"
+[Info  - 12:03:41 PM] Parsed error diagnostic on line 75 with message "invalid 16-bit effective address"
+[Info  - 12:03:41 PM] Parsed error diagnostic on line 76 with message "impossible combination of address sizes"
+[Info  - 12:03:41 PM] Parsed error diagnostic on line 76 with message "invalid 16-bit effective address"
+[Info  - 12:03:41 PM] Parsed error diagnostic on line 77 with message "impossible combination of address sizes"
+[Info  - 12:03:41 PM] Parsed error diagnostic on line 77 with message "invalid 16-bit effective address"
+finished calculating 10 diagnostics, sending
+[Info  - 12:06:30 PM] validating source code
+[Info  - 12:06:30 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:06:30 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 12:09:32 PM] validating source code
+[Info  - 12:09:32 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:09:32 PM] Parsing diagnostics from in.asm
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 17 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 18 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 19 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 20 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 24 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 25 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 26 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 27 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 31 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 32 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 33 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 39 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 42 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 43 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 44 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 45 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 49 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 53 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 54 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 60 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 61 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 62 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 65 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 67 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 68 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 72 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 78 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 79 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 80 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 82 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 83 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 84 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 87 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 88 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 90 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 91 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 92 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 96 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 98 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 102 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 103 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 104 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 105 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 111 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 112 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 113 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 114 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 118 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 119 with message "instruction not supported in 16-bit mode"
+[Info  - 12:09:32 PM] Parsed error diagnostic on line 120 with message "instruction not supported in 16-bit mode"
+finished calculating 50 diagnostics, sending
+[Info  - 12:13:58 PM] validating source code
+[Info  - 12:13:58 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 12:13:58 PM] Parsing diagnostics from in.asm
+[Info  - 12:13:58 PM] Parsed error diagnostic on line 40 with message "instruction not supported in 16-bit mode"
+[Info  - 12:13:58 PM] Parsed error diagnostic on line 41 with message "instruction not supported in 16-bit mode"
+finished calculating 2 diagnostics, sending
+[Error - 1:00:01 PM] Stopping server timed out

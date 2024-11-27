@@ -1,0 +1,36 @@
+2024-11-25 19:38:13.251 [info] [main] Log level: Info
+2024-11-25 19:38:13.251 [info] [main] Validating found git in: "git"
+2024-11-25 19:38:13.251 [info] [main] Using git "2.43.0" from "git"
+2024-11-25 19:38:13.251 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-25 19:38:13.251 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-25 19:38:13.252 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-11-25 19:38:13.264 [info] [Model][openRepository] Opened repository: /home/uwu
+2024-11-25 19:38:13.313 [info] > git rev-parse --show-toplevel [40ms]
+2024-11-25 19:38:13.314 [info] > git config --get commit.template [44ms]
+2024-11-25 19:38:13.342 [info] > git rev-parse --show-toplevel [24ms]
+2024-11-25 19:38:13.349 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-11-25 19:38:13.350 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-25 19:38:13.361 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2024-11-25 19:38:13.362 [info] > git rev-parse --show-toplevel [10ms]
+2024-11-25 19:38:13.366 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-25 19:38:13.370 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-25 19:38:13.374 [info] > git status -z -uall [18ms]
+2024-11-25 19:38:13.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-11-25 19:38:13.396 [info] > git config --get commit.template [5ms]
+2024-11-25 19:38:13.397 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-11-25 19:38:13.397 [warning] [Git][config] git config failed: Failed to execute git
+2024-11-25 19:38:13.407 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-11-25 19:38:13.407 [info] > git reflog main --grep-reflog=branch: Created from *. [7ms]
+2024-11-25 19:38:13.418 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [9ms]
+2024-11-25 19:38:13.418 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-11-25 19:38:13.418 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2024-11-25 19:38:13.431 [info] > git status -z -uall [19ms]
+2024-11-25 19:38:13.432 [info] > git merge-base refs/heads/main refs/remotes/origin/main [9ms]
+2024-11-25 19:38:13.436 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2024-11-25 19:38:13.452 [info] > git merge-base refs/heads/main refs/remotes/origin/main [7ms]
+2024-11-25 19:38:13.456 [info] > git diff --name-status -z --diff-filter=ADMR 4ae0f13708ae0e77d242f1b98aa29c743fcc3feb...refs/remotes/origin/main [21ms]
+2024-11-25 19:38:13.458 [info] > git diff --name-status -z --diff-filter=ADMR 4ae0f13708ae0e77d242f1b98aa29c743fcc3feb...refs/remotes/origin/main [3ms]
+2024-11-25 19:38:13.771 [info] > git show --textconv :Question2.asm [7ms]
+2024-11-25 19:38:13.774 [info] > git ls-files --stage -- /home/uwu/Question2.asm [5ms]
+2024-11-25 19:38:13.782 [info] > git cat-file -s 662e0d8f1f8435c8bc029a4e51691a8066b8b93b [3ms]
+2024-11-25 19:38:13.842 [info] > git check-ignore -v -z --stdin [5ms]

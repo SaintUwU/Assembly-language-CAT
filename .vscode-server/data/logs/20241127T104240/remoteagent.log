@@ -1,0 +1,20 @@
+2024-11-27 10:42:40.273 [info] 
+
+
+
+
+2024-11-27 10:42:40.284 [info] Extension host agent started.
+2024-11-27 10:42:40.452 [info] [127.0.0.1][44fab521][ManagementConnection] New connection established.
+2024-11-27 10:42:40.791 [info] [127.0.0.1][4bbd48ca][ExtensionHostConnection] New connection established.
+2024-11-27 10:42:40.794 [info] [127.0.0.1][4bbd48ca][ExtensionHostConnection] <562> Launched Extension Host Process.
+2024-11-27 10:42:50.673 [error] [network] #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET getaddrinfo EAI_AGAIN az764295.vo.msecnd.net
+2024-11-27 10:42:52.341 [error] [network] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2024-11-27 10:43:05.743 [error] [network] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2024-11-27 10:43:17.228 [info] [127.0.0.1][44fab521][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-27 10:43:19.795 [info] [127.0.0.1][68509af6][ManagementConnection] New connection established.
+2024-11-27 10:43:20.146 [info] [127.0.0.1][dbfa6c3f][ExtensionHostConnection] New connection established.
+2024-11-27 10:43:20.153 [info] [127.0.0.1][dbfa6c3f][ExtensionHostConnection] <771> Launched Extension Host Process.
+2024-11-27 10:43:27.353 [info] [127.0.0.1][4bbd48ca][ExtensionHostConnection] <562> Extension Host Process exited with code: 0, signal: null.
+2024-11-27 12:59:46.845 [info] [127.0.0.1][68509af6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-27 12:59:50.842 [warning] No ptyHost heartbeat after 6 seconds
+2024-11-27 13:00:02.055 [info] [127.0.0.1][dbfa6c3f][ExtensionHostConnection] <771> Extension Host Process exited with code: 0, signal: null.

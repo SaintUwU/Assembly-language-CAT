@@ -1,0 +1,9 @@
+[Info  - 7:38:12 PM] Revalidating all documents due to configuration change
+[Info  - 7:38:13 PM] validating source code
+[Info  - 7:38:13 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 7:38:13 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
+[Info  - 7:38:13 PM] validating source code
+[Info  - 7:38:13 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 7:38:13 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending

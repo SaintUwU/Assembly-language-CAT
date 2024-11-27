@@ -17,3 +17,5 @@
 2024-11-25 16:17:39.676 [info] [127.0.0.1][34dd9d8b][ManagementConnection] New connection established.
 2024-11-25 16:17:39.998 [info] [127.0.0.1][30eedc15][ExtensionHostConnection] New connection established.
 2024-11-25 16:17:40.002 [info] [127.0.0.1][30eedc15][ExtensionHostConnection] <775> Launched Extension Host Process.
+2024-11-25 16:47:51.864 [info] [127.0.0.1][34dd9d8b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-11-25 16:47:51.950 [info] [127.0.0.1][30eedc15][ExtensionHostConnection] <775> Extension Host Process exited with code: 0, signal: null.

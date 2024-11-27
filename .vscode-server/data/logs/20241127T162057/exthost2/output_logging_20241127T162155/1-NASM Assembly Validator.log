@@ -1,0 +1,17 @@
+[Info  - 4:21:56 PM] Revalidating all documents due to configuration change
+[Info  - 4:21:56 PM] validating source code
+[Info  - 4:21:56 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 4:21:56 PM] Parsing diagnostics from in.asm
+[Info  - 4:21:56 PM] Parsed error diagnostic on line 40 with message "instruction not supported in 16-bit mode"
+[Info  - 4:21:56 PM] Parsed error diagnostic on line 41 with message "instruction not supported in 16-bit mode"
+finished calculating 2 diagnostics, sending
+[Info  - 4:21:56 PM] validating source code
+[Info  - 4:21:56 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 4:21:56 PM] Parsing diagnostics from in.asm
+[Info  - 4:21:56 PM] Parsed error diagnostic on line 40 with message "instruction not supported in 16-bit mode"
+[Info  - 4:21:56 PM] Parsed error diagnostic on line 41 with message "instruction not supported in 16-bit mode"
+finished calculating 2 diagnostics, sending
+[Info  - 4:22:30 PM] validating source code
+[Info  - 4:22:30 PM] wrote source file to /tmp/nasmValidator/in.asm, spawning nasm
+[Info  - 4:22:30 PM] Parsing diagnostics from in.asm
+finished calculating 0 diagnostics, sending
