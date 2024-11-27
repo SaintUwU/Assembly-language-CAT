@@ -27,7 +27,7 @@ Array Management: Stores the five valid digits in an array.
 Array Reversal: Reverses the order of the digits in the array in place using two-pointer swapping.
 Output: Prints the reversed array, one digit per line.
 
-Challenges and Potential Improvements
+Challenges 
 1. Input Handling:
 Challenge: The program assumes that input always contains exactly one digit followed by a newline. Any deviation (e.g., extra characters) can result in unexpected behavior.
 
@@ -53,8 +53,10 @@ Problem: Factorials grow rapidly, and the result will overflow 64 bits for value
 
 QUESTION 4
 This assembly program simulates a sensor-based control system for a motor and an alarm. It takes a sensor value as input from the user and determines the appropriate actions for the motor and alarm based on predefined thresholds:
+
 Input Validation:
 The code doesn't explicitly validate the user input to ensure it's a valid integer within a specific range. This could lead to unexpected behavior if the user enters invalid input.
+
 Error Handling:
 The code doesn't handle potential errors like division by zero or out-of-bounds array access. Implementing error handling mechanisms can make the program more robust.
 
