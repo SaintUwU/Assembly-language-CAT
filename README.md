@@ -58,23 +58,27 @@ The code doesn't explicitly validate the user input to ensure it's a valid integ
 Error Handling:
 The code doesn't handle potential errors like division by zero or out-of-bounds array access. Implementing error handling mechanisms can make the program more robust.
 
-How to run Q1
+## Question 1
+```
  nasm -f elf32 question1.asm -o question.o
  ld -m elf_i386 question1.o -o question1
  ./question1
-
+```
 ## Question 2
-```nasm -f elf64 Question2.asm -o Question2.o
+```
+nasm -f elf64 Question2.asm -o Question2.o
 ld Question2.o -o Question2
 ./Question2
 ```
 ## Question 3
-```nasm -f elf64 Question3.asm -o Question3.o
+```
+nasm -f elf64 Question3.asm -o Question3.o
 ld Question3.o -o Question3
 ./Question3
 ```
 ## Question 4
-```nasm -f elf64 Question4.asm -o Question4.o
+```
+nasm -f elf64 Question4.asm -o Question4.o
 ld Question4.o -o Question4
 ./Question4
 ```
