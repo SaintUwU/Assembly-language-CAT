@@ -54,6 +54,8 @@ Problem: Factorials grow rapidly, and the result will overflow 64 bits for value
 QUESTION 4
 This assembly program simulates a sensor-based control system for a motor and an alarm. It takes a sensor value as input from the user and determines the appropriate actions for the motor and alarm based on predefined thresholds:
 
+Potential issues
+
 Input Validation:
 The code doesn't explicitly validate the user input to ensure it's a valid integer within a specific range. This could lead to unexpected behavior if the user enters invalid input.
 
